@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gridnine/static/css/main.014cbece.css",
+    "main.js": "/gridnine/static/js/main.ea05ba88.js",
+    "index.html": "/gridnine/index.html",
+    "main.014cbece.css.map": "/gridnine/static/css/main.014cbece.css.map",
+    "main.ea05ba88.js.map": "/gridnine/static/js/main.ea05ba88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014cbece.css",
+    "static/js/main.ea05ba88.js"
+  ]
+}
